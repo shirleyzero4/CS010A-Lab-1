@@ -2,7 +2,8 @@
 
 Week 1 Lab: Introduction
 
-Input and Formatted Output: Right Facing Arrow
+1) Input and Formatted Output: Right Facing Arrow
+
 Given two input integers for an arrow body and arrowhead (respectively), print a right-facing arrow.
 
 Ex: If the input is 0 1, the output is:
@@ -14,7 +15,7 @@ Ex: If the input is 0 1, the output is:
 	     1
    
 
-Caffeine Levels
+2) Caffeine Levels
 
 A half-life is the amount of time it takes for a substance or entity to fall to half its original value. Caffeine has a half-life of about 6 hours in humans. Given caffeine amount (in mg) as input, output the caffeine level after 6, 12, and 18 hours.
 
